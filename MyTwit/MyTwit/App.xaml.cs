@@ -12,6 +12,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
+using MyTwit.ViewModels;
 
 namespace MyTwit
 {
@@ -22,6 +23,11 @@ namespace MyTwit
         /// </summary>
         /// <returns>The root frame of the Phone Application.</returns>
         public PhoneApplicationFrame RootFrame { get; private set; }
+
+        private ViewModelLocator ViewModelLocator
+        {
+            get { return (ViewModelLocator)this.Resources["ViewModelLocator"]; }
+        }
 
         /// <summary>
         /// Constructor for the Application object.

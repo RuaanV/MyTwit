@@ -14,17 +14,19 @@ using Microsoft.Silverlight.Testing;
 
 namespace MyTwit
 {
+    /// <summary>
+    /// Main App Entry Page
+    /// </summary>
     public partial class MainPage : PhoneApplicationPage
     {
-
         private const string ApplicationTitleName = "My Twitter";
 
         /// <summary>
         /// Initializes a new instance of the <see cref="MainPage"/> class.
         /// </summary>
-          public MainPage()
-          {
-              InitializeComponent();
+        public MainPage()
+        {
+            InitializeComponent();
             this.ApplicationTitle.Text = ApplicationTitleName;
 
             CheckForUnitTestRunner();
@@ -49,6 +51,6 @@ namespace MyTwit
                 }
 
             }
-          }
-      }
+        }
     }
+}

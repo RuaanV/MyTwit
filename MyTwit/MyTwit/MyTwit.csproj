@@ -48,14 +48,21 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Funq">
+      <HintPath>..\Binaries\Funq\Funq.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.Phone" />
     <Reference Include="Microsoft.Phone.Interop" />
+    <Reference Include="Microsoft.Phone.Reactive" />
     <Reference Include="Microsoft.Silverlight.Testing">
       <HintPath>..\Binaries\UnitTesting\Microsoft.Silverlight.Testing.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight">
       <HintPath>..\Binaries\UnitTesting\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll</HintPath>
     </Reference>
+    <Reference Include="System.Device" />
+    <Reference Include="System.Observable" />
+    <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Windows" />
     <Reference Include="system" />
     <Reference Include="System.Core" />
@@ -70,7 +77,20 @@
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\ApplicationFrameNavigationService.cs" />
+    <Compile Include="Services\ContainerLocator.cs" />
+    <Compile Include="Services\ILocationService.cs" />
+    <Compile Include="Services\INavigationService.cs" />
+    <Compile Include="Services\ISettingsStore.cs" />
+    <Compile Include="Services\LocationService.cs" />
+    <Compile Include="Services\SettingsStore.cs" />
+    <Compile Include="UnitTests\LocationServiceTests.cs" />
     <Compile Include="UnitTests\MainUnitTests.cs" />
+    <Compile Include="UnitTests\SettingsStoreServiceTests.cs" />
+    <Compile Include="ViewModels\AppSettingsViewModel.cs" />
+    <Compile Include="ViewModels\FilterSettingsViewModel.cs" />
+    <Compile Include="ViewModels\ViewModel.cs" />
+    <Compile Include="ViewModels\ViewModelLocator.cs" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
@@ -96,8 +116,18 @@
     <Content Include="SplashScreenImage.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="ViewModel\" />
+    <Folder Include="Infrastructure\" />
     <Folder Include="View\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Lib\Prism.Interactivity\Prism.Interactivity.csproj">
+      <Project>{F3CC2EF9-B092-498A-A7D7-E52DE5370700}</Project>
+      <Name>Prism.Interactivity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lib\Prism\Prism.csproj">
+      <Project>{3BC829AC-1DE8-48A7-BE0C-D96CFE6CF0EA}</Project>
+      <Name>Prism %28Prism\Prism%29</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.$(TargetFrameworkProfile).Overrides.targets" />
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.CSharp.targets" />

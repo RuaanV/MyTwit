@@ -19,6 +19,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTesting", "UnitTesting"
 		Binaries\UnitTesting\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll = Binaries\UnitTesting\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Funq", "Funq", "{42DD6430-5BA5-45A5-9B64-60295D6A89F6}"
+	ProjectSection(SolutionItems) = preProject
+		Binaries\Funq\Funq.dll = Binaries\Funq\Funq.dll
+		Binaries\Funq\Funq.xml = Binaries\Funq\Funq.xml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +65,7 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B5BB0F34-A63E-4EC0-949A-FA3099AA09C5} = {02A9C36B-DF7D-4DE1-8D7B-CBBB4480D7AE}
+		{42DD6430-5BA5-45A5-9B64-60295D6A89F6} = {02A9C36B-DF7D-4DE1-8D7B-CBBB4480D7AE}
 		{3BC829AC-1DE8-48A7-BE0C-D96CFE6CF0EA} = {514E598A-CACF-4D88-8D3E-CFA012E14DD1}
 		{F3CC2EF9-B092-498A-A7D7-E52DE5370700} = {514E598A-CACF-4D88-8D3E-CFA012E14DD1}
 	EndGlobalSection
