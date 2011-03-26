@@ -13,6 +13,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prism", "Lib\Prism\Prism.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prism.Interactivity", "Lib\Prism.Interactivity\Prism.Interactivity.csproj", "{F3CC2EF9-B092-498A-A7D7-E52DE5370700}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTesting", "UnitTesting", "{B5BB0F34-A63E-4EC0-949A-FA3099AA09C5}"
+	ProjectSection(SolutionItems) = preProject
+		Binaries\UnitTesting\Microsoft.Silverlight.Testing.dll = Binaries\UnitTesting\Microsoft.Silverlight.Testing.dll
+		Binaries\UnitTesting\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll = Binaries\UnitTesting\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -52,6 +58,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{B5BB0F34-A63E-4EC0-949A-FA3099AA09C5} = {02A9C36B-DF7D-4DE1-8D7B-CBBB4480D7AE}
 		{3BC829AC-1DE8-48A7-BE0C-D96CFE6CF0EA} = {514E598A-CACF-4D88-8D3E-CFA012E14DD1}
 		{F3CC2EF9-B092-498A-A7D7-E52DE5370700} = {514E598A-CACF-4D88-8D3E-CFA012E14DD1}
 	EndGlobalSection
