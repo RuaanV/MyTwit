@@ -9,47 +9,53 @@
   <RecentFiles>
     <RecentFiles>
       <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/f:MainPage.xaml.cs" caret="425" fromTop="17" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/f:App.xaml.cs" caret="1055" fromTop="27" />
       <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:INavigationService.cs" caret="516" fromTop="23" />
       <File id="42DD6430-5BA5-45A5-9B64-60295D6A89F6/f:Funq.xml/l:C!?Users?Ruaan?MyTwit?MyTwit?Binaries?Funq?Funq.xml" caret="168" fromTop="7" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ContainerLocator.cs" caret="1890" fromTop="55" />
       <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ILocationService.cs" caret="365" fromTop="16" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:ViewModel.cs" caret="889" fromTop="24" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:AppSettingsViewModel.cs" caret="517" fromTop="14" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:ViewModelLocator.cs" caret="1326" fromTop="22" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:FilterSettingsViewModel.cs" caret="182" fromTop="10" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ApplicationFrameNavigationService.cs" caret="563" fromTop="16" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModels/f:AppSettingsViewModel.cs" caret="12371" fromTop="260" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModels/f:FilterSettingsViewModel.cs" caret="17" fromTop="0" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModels/f:ViewModel.cs" caret="2645" fromTop="95" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModels/f:ViewModelLocator.cs" caret="802" fromTop="25" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:SettingsStore.cs" caret="3134" fromTop="90" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ISettingsStore.cs" caret="700" fromTop="24" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ContainerLocator.cs" caret="1721" fromTop="20" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:LocationService.cs" caret="796" fromTop="24" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:UnitTests/f:LocationServiceTests.cs" caret="0" fromTop="0" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:UnitTests/f:SettingsStoreServiceTests.cs" caret="372" fromTop="18" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/f:App.xaml.cs" caret="926" fromTop="16" />
     </RecentFiles>
     <RecentEdits>
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:ViewModel.cs" caret="2644" fromTop="39" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:ViewModel.cs" caret="245" fromTop="9" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ContainerLocator.cs" caret="2548" fromTop="13" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ContainerLocator.cs" caret="4141" fromTop="39" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ContainerLocator.cs" caret="690" fromTop="20" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ContainerLocator.cs" caret="1978" fromTop="21" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ContainerLocator.cs" caret="3371" fromTop="39" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ContainerLocator.cs" caret="1851" fromTop="21" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ILocationService.cs" caret="61" fromTop="6" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ILocationService.cs" caret="61" fromTop="3" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ILocationService.cs" caret="227" fromTop="13" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ILocationService.cs" caret="90" fromTop="5" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:ViewModelLocator.cs" caret="2677" fromTop="22" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:ViewModelLocator.cs" caret="1408" fromTop="28" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:ViewModelLocator.cs" caret="1633" fromTop="34" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:AppSettingsViewModel.cs" caret="12498" fromTop="6" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:AppSettingsViewModel.cs" caret="12498" fromTop="39" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:AppSettingsViewModel.cs" caret="12498" fromTop="6" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:AppSettingsViewModel.cs" caret="12498" fromTop="14" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:AppSettingsViewModel.cs" caret="12498" fromTop="3" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:AppSettingsViewModel.cs" caret="0" fromTop="0" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:AppSettingsViewModel.cs" caret="12498" fromTop="11" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:AppSettingsViewModel.cs" caret="12631" fromTop="20" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:AppSettingsViewModel.cs" caret="12680" fromTop="39" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:ViewModelLocator.cs" caret="476" fromTop="17" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:ViewModelLocator.cs" caret="518" fromTop="22" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:ViewModelLocator.cs" caret="794" fromTop="31" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:ViewModelLocator.cs" caret="3129" fromTop="29" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:ViewModelLocator.cs" caret="1252" fromTop="20" />
-      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModel/f:FilterSettingsViewModel.cs" caret="134" fromTop="6" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ApplicationFrameNavigationService.cs" caret="13" fromTop="0" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ApplicationFrameNavigationService.cs" caret="78" fromTop="4" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ApplicationFrameNavigationService.cs" caret="906" fromTop="21" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ApplicationFrameNavigationService.cs" caret="663" fromTop="27" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ApplicationFrameNavigationService.cs" caret="1015" fromTop="24" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ApplicationFrameNavigationService.cs" caret="1448" fromTop="29" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ApplicationFrameNavigationService.cs" caret="1269" fromTop="34" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ApplicationFrameNavigationService.cs" caret="1552" fromTop="30" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ApplicationFrameNavigationService.cs" caret="107" fromTop="6" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ApplicationFrameNavigationService.cs" caret="291" fromTop="10" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/f:App.xaml.cs" caret="868" fromTop="22" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModels/f:AppSettingsViewModel.cs" caret="12371" fromTop="260" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModels/f:FilterSettingsViewModel.cs" caret="17" fromTop="0" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModels/f:ViewModel.cs" caret="2645" fromTop="95" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:ViewModels/f:ViewModelLocator.cs" caret="2874" fromTop="84" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ContainerLocator.cs" caret="1414" fromTop="20" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:SettingsStore.cs" caret="126" fromTop="7" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:SettingsStore.cs" caret="3451" fromTop="39" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ISettingsStore.cs" caret="122" fromTop="7" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ISettingsStore.cs" caret="411" fromTop="18" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ISettingsStore.cs" caret="642" fromTop="20" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ISettingsStore.cs" caret="1184" fromTop="26" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ISettingsStore.cs" caret="966" fromTop="27" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:ISettingsStore.cs" caret="149" fromTop="8" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:LocationService.cs" caret="2574" fromTop="39" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:LocationService.cs" caret="98" fromTop="5" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:LocationService.cs" caret="0" fromTop="0" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:Services/f:LocationService.cs" caret="804" fromTop="24" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:UnitTests/f:SettingsStoreServiceTests.cs" caret="0" fromTop="0" />
+      <File id="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A/d:UnitTests/f:SettingsStoreServiceTests.cs" caret="339" fromTop="13" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="28C25C2C-B6F6-4881-8C45-FB91D4A1F62A" ModuleId="MyTwit" />
+  <Module PersistentId="3BC829AC-1DE8-48A7-BE0C-D96CFE6CF0EA" ModuleId="Prism" />
+  <Module PersistentId="F3CC2EF9-B092-498A-A7D7-E52DE5370700" ModuleId="Prism.Interactivity" />
+</Modules>

@@ -1,0 +1,5 @@
+C:\Users\Ruaan\MyTwit\MyTwit\LinqToTwitterAg\Bin\Debug\LinqToTwitterAg.dll
+C:\Users\Ruaan\MyTwit\MyTwit\LinqToTwitterAg\Bin\Debug\LinqToTwitterAg.pdb
+C:\Users\Ruaan\MyTwit\MyTwit\LinqToTwitterAg\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruaan\MyTwit\MyTwit\LinqToTwitterAg\obj\Debug\LinqToTwitterAg.dll
+C:\Users\Ruaan\MyTwit\MyTwit\LinqToTwitterAg\obj\Debug\LinqToTwitterAg.pdb
